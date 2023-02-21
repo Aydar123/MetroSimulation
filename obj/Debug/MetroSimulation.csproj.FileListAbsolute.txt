@@ -1,0 +1,7 @@
+C:\Users\Алмаз\source\repos\MetroSimulation\bin\Debug\MetroSimulation.exe.config
+C:\Users\Алмаз\source\repos\MetroSimulation\bin\Debug\MetroSimulation.exe
+C:\Users\Алмаз\source\repos\MetroSimulation\bin\Debug\MetroSimulation.pdb
+C:\Users\Алмаз\source\repos\MetroSimulation\obj\Debug\MetroSimulation.csprojAssemblyReference.cache
+C:\Users\Алмаз\source\repos\MetroSimulation\obj\Debug\MetroSimulation.csproj.CoreCompileInputs.cache
+C:\Users\Алмаз\source\repos\MetroSimulation\obj\Debug\MetroSimulation.exe
+C:\Users\Алмаз\source\repos\MetroSimulation\obj\Debug\MetroSimulation.pdb
